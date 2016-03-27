@@ -1,3 +1,7 @@
+# temp file, swap file, temp file for ide
+*~
+*.swp
+/.idea/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
