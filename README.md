@@ -9,3 +9,7 @@
 ## 联系方式:  
 邮箱: ramwin@qq.com  
 
+## 使用方法  
+pip install -r requirements.txt  
+python3 crawler.py
+python3 jsonparse.py > data/火车班次列表
